@@ -13,6 +13,7 @@ class Test extends StatelessWidget {
 
     return Scaffold(
       body: SingleChildScrollView(
+        //abdo هخخخخ
         child: Padding(
           padding: EdgeInsets.symmetric(horizontal: screenWidth * 0.02),
           child: Column(
